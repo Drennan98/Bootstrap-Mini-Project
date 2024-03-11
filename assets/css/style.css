@@ -105,7 +105,7 @@ header {
     letter-spacing: 2px;
 }
 
-.hvr-sweept-to-bottom:before {
+.hvr-sweep-to-bottom:before {
     background-color: rgba(0, 0, 0, 0.2);
     height: 120px;
 }
